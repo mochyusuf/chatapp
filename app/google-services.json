@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "403736517457",
+    "firebase_url": "https://firechat-ba288.firebaseio.com",
+    "project_id": "firechat-ba288",
+    "storage_bucket": "firechat-ba288.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403736517457:android:0268031fb36dfd2e",
+        "android_client_info": {
+          "package_name": "tex.com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403736517457-mlq34e0q2i2vap4e42e452mvbai0d9r9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tex.com.chatapp",
+            "certificate_hash": "ccb5eefcc34298db65875d6529a2e50a0ba54181"
+          }
+        },
+        {
+          "client_id": "403736517457-2jqjamj6f0dgl7m1h5b8ce0u4en22umu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq9VV2ofMf9ALXhcpRH-uRhwyf3Fq8x7E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403736517457-2jqjamj6f0dgl7m1h5b8ce0u4en22umu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
